@@ -11,7 +11,9 @@ General Languages and versions
 
 Run -
 
-    python manage.py runserver --nothreading –noreload
+    python manage.py runserver
 
-Demo Video
-https://www.youtube.com/watch?v=p70srlZvyvQ&feature=youtu.be
+Demo Video:
+
+	https://www.youtube.com/watch?v=kSIoOlkR5Ow&feature=youtu.be
+
